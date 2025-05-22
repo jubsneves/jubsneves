@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Juliana Neves
+🌿 I'm a current UX/UI designer learning frontend development! 
+
+## Skills
+- 🎨 Figma, Adobe XD, Sketch
+- 🌐 HTML, CSS, Sass, JavaScript (learning)
+
+## Projects
+- [Insurance Landing Page](https://github.com/jubsneves/insurance-landing)
+- [Design projects] (https://www.behance.net/juliana-neves)
+
+## Connect
+- [LinkedIn](https://linkedin.com/in/juliana-lima-neves/)
 
 <!--
 **jubsneves/jubsneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
