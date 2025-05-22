@@ -7,10 +7,10 @@
 
 ## Projects
 - [Insurance Landing Page](https://github.com/jubsneves/insurance-landing)
-- [Design projects] (https://www.behance.net/juliana-neves)
 
 ## Connect
 - [LinkedIn](https://linkedin.com/in/juliana-lima-neves/)
+- [Design projects](https://behance.net/juliana-neves)
 
 <!--
 **jubsneves/jubsneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
