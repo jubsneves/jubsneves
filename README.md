@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Juliana Neves
-🌿 I'm a current UX/UI designer learning frontend development! 
+🌿 I am a motivated UX/UI Designer transitioning into UI and Frontend development, with a solid foundation in design principles, user experience, and stakeholder collaboration. 
 
 ## Skills
+- 🌐 HTML, CSS, Sass, JavaScript ES6+, CSS3, Sass, Flexbox, utility JS library, UI library (Tailwind, Bootstrap), React, API, Axios, AJAX.
 - 🎨 Figma, Adobe XD, Sketch
-- 🌐 HTML, CSS, Sass, JavaScript (learning)
 
 ## Projects
 - [Insurance Landing Page](https://github.com/jubsneves/insurance-landing)
