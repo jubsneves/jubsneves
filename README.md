@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Juliana Neves
-🌿 I am a motivated UX/UI Designer transitioning into UI and Frontend development, with a solid foundation in design principles, user experience, and stakeholder collaboration. 
+🌿 I am a motivated Product Designer exploring Frontend development, with a solid foundation in design principles, user experience, and stakeholder collaboration. 
 
 ## Skills
 - 🌐 HTML, CSS, Sass, JavaScript ES6+, CSS3, Sass, Flexbox, utility JS library, UI library (Tailwind, Bootstrap), React, API, Axios, AJAX.
